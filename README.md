@@ -1,7 +1,7 @@
 [![MasterHead](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qjq1vryd8p2q9c72sbscgi6t3b3r2pmma4yizla9&rid=giphy.gif&ct=g)]
 <h1 align="center">Hi 👋, I'm mina samy</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qjq1vryd8p2q9c72sbscgi6t3b3r2pmma4yizla9&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mina-same&label=Profile%20views&color=0e75b6&style=flat" alt="mina-same" /> </p>
 
