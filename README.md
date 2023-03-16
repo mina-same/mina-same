@@ -1,4 +1,4 @@
-[![MasterHead](file:///F:/Downloads/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f32322f32323635376238613537376638353838323763356434366461633332636635332e676966.gif)](https://gifer.com/)
+[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFmZDNkMWQ2ZmUxNmExYzBmZjlhNmFlOWVhNjY0NDM2MTUyMTM3MiZjdD1n/x8SIg1CKbN9HTvM59h/giphy.gif)](https://gifer.com/)
 <h1 align="center">Hi 👋, I'm mina samy</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qjq1vryd8p2q9c72sbscgi6t3b3r2pmma4yizla9&rid=giphy.gif&ct=g">
