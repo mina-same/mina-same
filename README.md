@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pinterest.com/pin/1016828422095018921/)]
+[![MasterHead](https://i.pinimg.com/564x/a9/da/60/a9da600d18903778618b9d1e2739c851.jpg)]
 <h1 align="center">Hi 👋, I'm mina samy</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
