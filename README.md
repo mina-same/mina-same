@@ -1,4 +1,4 @@
-[![MasterHead](https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47qjq1vryd8p2q9c72sbscgi6t3b3r2pmma4yizla9&rid=giphy.gif&ct=g)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm mina samy</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qjq1vryd8p2q9c72sbscgi6t3b3r2pmma4yizla9&rid=giphy.gif&ct=g">
