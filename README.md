@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Ffrontend&psig=AOvVaw3ZxWixloBjSUbtc1dZlzgh&ust=1679046486546000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNCp8N2V4P0CFQAAAAAdAAAAABAq)]
+[![MasterHead](https://i.gifer.com/origin/22/22657b8a577f858827c5d46dac32cf53.gif)]
 <h1 align="center">Hi 👋, I'm mina samy</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qjq1vryd8p2q9c72sbscgi6t3b3r2pmma4yizla9&rid=giphy.gif&ct=g">
