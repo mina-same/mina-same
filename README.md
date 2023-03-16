@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/564x/a9/da/60/a9da600d18903778618b9d1e2739c851.jpg)
+[![MasterHead](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qjq1vryd8p2q9c72sbscgi6t3b3r2pmma4yizla9&rid=giphy.gif&ct=g)]
 <h1 align="center">Hi 👋, I'm mina samy</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
