@@ -7,17 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/same563103" target="blank"><img src="https://img.shields.io/twitter/follow/same563103?logo=twitter&style=for-the-badge" alt="same563103" /></a> </p>
 
-- 🔭 I’m currently learing on **taking a deep shot in react**
+- 🔭 I’m currently learing on **College of Computers and Information Damnhour university** 
+
+- 🔭 I’m currently **taking a deep shot in react**
 
 - 🌱 I’m currently learning **next js**
 
 - 🧑🏼‍💻 I’m a problem solver **codeForses**
 
-- 🤝 I’m looking for work as **frontend developer**
+- 🤝 I’m looking for work as **frontend developer engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mina-same](https://github.com/mina-same)
 
-- 💬 Ask me about **c++, react, nodejs, html, css and js**
+- 💬 Ask me about **c++, react, nodejs, html, css, js and etc**
 
 - 📫 How to reach me **minasame3@gmail.com**
 
